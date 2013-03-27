@@ -1,0 +1,13 @@
+{
+  "name": "A Jumping Ball",
+  "description": "First Version",
+  "launch_path": "/JumpingGame.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Subhasish Kundu",
+    "url": "http://about.me/subhasish_kundu"
+  },
+  "default_locale": "en"
+}
